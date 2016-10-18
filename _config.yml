@@ -81,7 +81,7 @@ theme: even
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:yimiaodaren/yimiaodaren.github.io.git
+  repo: https://github.com/yimiaodaren/yimiaodaren.github.io.git
   branch: master
   message: 
 

@@ -12,7 +12,7 @@ favicon: /favicon.ico
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
-  color: Default
+  color: Mint Green
   headerlink: "§"
 
 # comments
@@ -31,17 +31,17 @@ google_analytics: Your Google Analytics ID
 
 # Comments
 ## Duoshuo
-duoshuo_shortname: Your duoshuo ID
+duoshuo_shortname: yimiaodaren
 ## Disqus
-disqus_shortname: Your disqus ID
+disqus_shortname: 
 
 # Social links
 social:
-  email: your@email.com
+  email: yimiaodaren@email.com
   # stack-overflow:
   # twitter:
   # facebook:
-  github: 
+  github: https://github.com/yimiaodaren
   # weibo: 
   # zhihu: 
   rss: /atom.xml
